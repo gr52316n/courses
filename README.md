@@ -1,4 +1,4 @@
-﻿# courses
+# courses
 Sudan,Gurleen Kaur,November 2,7:39pm
 Matthew Ell added 2015_05_26 6:30PM
 Meghan Jordan added 9:46AM
@@ -118,3 +118,4 @@ Raami Sharif, November 2, 11:11 AM
 Sanyukta Madan, November 2, 9:51 PM
 Devershi Rathore, November 2, 2016 , 10:05 PM
 Zhao, Yue, November 4, 2016, 16:00 PM
+Grecilda Rumao, November 18 , 5:04 PM
